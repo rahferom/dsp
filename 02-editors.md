@@ -59,7 +59,7 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What terminal editor will you use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will be using Emac because of it's ease of use. 
 
 --
 
@@ -67,6 +67,6 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I will be using Ipython because I have used it before. Everyday, I'm learning something new and familiarizing with it more and more. Some intersting features include the ability to navigate between cells, running cells which are entirely above or below a particular cell. Useful keyboard shortcuts include 'Control-Enter'for running cell; 'Ctrl-m a' and 'Ctrl-m b' for inserting cells above and below the active cell respectively. I would use the 'Help' to select the type of customization I want. 
 
  
